@@ -30,7 +30,10 @@ Puedes utilizar este archivo en cualquier herramienta que soporte listas de cont
 
 Clona el repositorio y accede al archivo de contraseñas con el siguiente comando:
 ```bash
-git clone https://github.com/tu-usuario/ultimate-password-list.git
+git clone https://github.com/dev-fortress/comprehensive-password-list.git
+cd comprehensive-password-list
+cat parte_* > comprehensive_passwords.txt.tar.gz
+tar -xzvf comprehensive_passwords.txt.tar.gz
 ```
 
 ## 📝 Licencia
