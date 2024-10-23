@@ -32,7 +32,7 @@ Clona el repositorio y accede al archivo de contraseñas con el siguiente comand
 ```bash
 git clone https://github.com/dev-fortress/comprehensive-password-list.git
 cd comprehensive-password-list
-cat parte_* > comprehensive_passwords.txt.tar.gz
+cat part_* > comprehensive_passwords.txt.tar.gz
 tar -xzvf comprehensive_passwords.txt.tar.gz
 ```
 
